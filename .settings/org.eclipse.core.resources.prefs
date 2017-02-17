@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/com/example/androidutil/util/BaseActivity.java=UTF-8
+encoding//src/com/example/androidutil/util/Conn.java=UTF-8
+encoding//src/com/example/androidutil/util/CrashHandler.java=UTF-8
+encoding//src/com/example/androidutil/util/Util.java=UTF-8
+encoding//src/com/example/androidutil/util/badge/BadgeUtil.java=UTF-8
+encoding//src/com/example/androidutil/util/file/DownLoadFileInterface.java=UTF-8
+encoding//src/com/example/androidutil/util/file/FileHelper.java=UTF-8
+encoding//src/com/example/androidutil/util/file/FileOpen.java=UTF-8
+encoding//src/com/example/androidutil/util/file/FilePathResolver.java=UTF-8
+encoding//src/com/example/androidutil/util/file/FileSizeUtil.java=UTF-8
+encoding//src/com/example/androidutil/util/image/Bimp.java=UTF-8
+encoding//src/com/example/androidutil/util/image/BitmapCache.java=UTF-8
+encoding//src/com/example/androidutil/util/image/ImageItem.java=UTF-8
+encoding//src/com/example/androidutil/util/image/ImageUtils.java=UTF-8
+encoding//src/com/example/androidutil/util/request/BllHttpGet.java=UTF-8
+encoding//src/com/example/androidutil/util/request/BllHttpPost.java=UTF-8
